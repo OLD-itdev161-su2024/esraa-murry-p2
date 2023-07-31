@@ -1,0 +1,4 @@
+{
+   "mongoURI": "mongodb+srv://patrick-walmsley:Patmann360@cluster0.dvnqlcs.mongodb.net/test?retryWrites=true&w=majority",
+   "jwtSecret": "patforceistheway"
+}
